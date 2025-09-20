@@ -30,7 +30,7 @@ This will launch a web server in local. You can then open the client following t
 
 ## Acknowledgment
 
-We thanks [Ruiqian Nai](https://richard-coder-nai.github.io/) and [Fanqi Lin](https://fanqi-lin.github.io/) for their great help on the development of this MotionTrans-Pi0-VLA codebase. This repository is based on the code from [OneTwoVLA](hhttps://github.com/Fanqi-Lin/OneTwoVLA), [OpenPi](https://github.com/Physical-Intelligence/openpi) and[UMI](https://github.com/real-stanford/universal_manipulation_interface). We sincerely appreciate their contribution to the open-source community, which have significantly supported this project. We also sincerely thank our AI-collaborators [ChatGPT](https://openai.com/chatgpt), [Kimi](https://www.kimi.com/) and [Github Copilot](https://github.com/features/copilot) !!
+We thanks [Ruiqian Nai](https://richard-coder-nai.github.io/) and [Fanqi Lin](https://fanqi-lin.github.io/) for their great help on the development of this MotionTrans-Pi0-VLA codebase. This repository is based on the code from [OneTwoVLA](https://github.com/Fanqi-Lin/OneTwoVLA), [OpenPi](https://github.com/Physical-Intelligence/openpi) and[UMI](https://github.com/real-stanford/universal_manipulation_interface). We sincerely appreciate their contribution to the open-source community, which have significantly supported this project. We also sincerely thank our AI-collaborators [ChatGPT](https://openai.com/chatgpt), [Kimi](https://www.kimi.com/) and [Github Copilot](https://github.com/features/copilot) !!
 
 ## Citation
 
