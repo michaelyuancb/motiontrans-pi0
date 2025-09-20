@@ -1,6 +1,6 @@
 # MotionTrans-Pi0
 
-This repository contains the Pi0-VLA code for [MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies](https://github.com/michaelyuancb/motiontrans), which modifies the [original Pi0 codebase](https://github.com/Physical-Intelligence/openpi) from [Physics Intelligence](https://www.physicalintelligence.company/).
+This repository contains the Pi0-VLA code for [MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies](https://github.com/michaelyuancb/motiontrans), which is a modification of the [original Pi0 codebase](https://github.com/Physical-Intelligence/openpi) from [Physics Intelligence](https://www.physicalintelligence.company/).
 
 For more details of the whole project, please refer to the [main MotionTrans repository](https://github.com/michaelyuancb/motiontrans).
 
