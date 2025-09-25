@@ -34,4 +34,13 @@ We thanks [Ruiqian Nai](https://richard-coder-nai.github.io/) and [Fanqi Lin](ht
 
 ## Citation
 
-If you find this repository useful, please kindly acknowledge our work and cite the paper in our [main MotionTrans repository](https://github.com/michaelyuancb/motiontrans).
+If you find this repository useful, please kindly acknowledge our work <span id="jump">:</span>
+```tex
+@article{yuan2025motiontrans,
+  title={MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies},
+  author={Yuan, Chengbo and Zhou, Rui and Liu, Mengzhen and Hu, Yingdong and Wang, Shengjie and Yi, Li and Wen, Chuan and Zhang, Shanghang and Gao, Yang},
+  journal={arXiv preprint arXiv:2509.17759},
+  year={2025}
+}
+```
+
