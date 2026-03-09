@@ -21,7 +21,7 @@ def make_motiontrans_example() -> dict:
 def _parse_image(image) -> np.ndarray:
     image = np.asarray(image)
     if np.issubdtype(image.dtype, np.floating):
-        image = (255 * image).astype(np.uint8)
+        image = ((image + 1.0) / 2.0 * 255.0).astype(np.uint8)
     if image.shape[0] == 3:
         image = einops.rearrange(image, "c h w -> h w c")
     return image
